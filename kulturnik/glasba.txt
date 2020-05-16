@@ -1,0 +1,107 @@
+﻿<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<atom:link href="https://www.eventim.si/index.php" rel="self" type="application/rss+xml"/>
+<title>Top 10 prireditev</title>
+<link>https://www.eventim.si</link>
+<description>Top 10 prireditev</description>
+<image>
+<url>
+https://content.eventim.com/static/branding/si/7620/0/default_logo.png
+</url>
+<title>Image title</title>
+<link>https://www.eventim.si</link>
+<width>88</width>
+<height>31</height>
+</image>
+<item>
+<title>GRAMATIK</title>
+<link>
+https://www.eventim.si/si/glasba/rock_pop/gramatik/525460/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/rock_pop/gramatik/525460/
+</guid>
+</item>
+<item>
+<title>SIDDHARTA</title>
+<link>
+https://www.eventim.si/si/glasba/rock_pop/siddharta/520371/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/rock_pop/siddharta/520371/
+</guid>
+</item>
+<item>
+<title>MARK KNOPFLER</title>
+<link>
+https://www.eventim.si/si/glasba/rock_pop/mark_knopfler/505177/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/rock_pop/mark_knopfler/505177/
+</guid>
+</item>
+<item>
+<title>Poletna noč</title>
+<link>
+https://www.eventim.si/si/glasba/festival/poletna_noc/514283/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/festival/poletna_noc/514283/
+</guid>
+</item>
+<item>
+<title>G. Verdi: Aida</title>
+<link>
+https://www.eventim.si/si/glasba/festival/g_verdi_aida/515201/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/festival/g_verdi_aida/515201/
+</guid>
+</item>
+<item>
+<title>Tom Jones</title>
+<link>
+https://www.eventim.si/si/glasba/rock_pop/tom_jones/514382/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/rock_pop/tom_jones/514382/
+</guid>
+</item>
+<item>
+<title>QUEEN SYMPHONY</title>
+<link>
+https://www.eventim.si/si/glasba/rock_pop/queen_symphony/518288/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/rock_pop/queen_symphony/518288/
+</guid>
+</item>
+<item>
+<title>Festival ŠVIC 2019</title>
+<link>
+https://www.eventim.si/si/glasba/festival/festival_svic_2019/517436/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/festival/festival_svic_2019/517436/
+</guid>
+</item>
+<item>
+<title>CASTLE FESTIVAL 2019</title>
+<link>
+https://www.eventim.si/si/glasba/festival/castle_festival_2019/499834/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/festival/castle_festival_2019/499834/
+</guid>
+</item>
+<item>
+<title>PETAR GRAŠO</title>
+<link>
+https://www.eventim.si/si/glasba/rock_pop/petar_graso/520488/
+</link>
+<guid isPermaLink="true">
+https://www.eventim.si/si/glasba/rock_pop/petar_graso/520488/
+</guid>
+</item>
+</channel>
+</rss>
